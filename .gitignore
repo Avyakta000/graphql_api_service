@@ -1,0 +1,48 @@
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.py[cod]
+
+# Virtual environment directories
+venv/
+.env/
+
+# Test and coverage reports
+*.log
+*.coverage
+*.tox
+*.nox
+*.coverage.*
+nosetests.xml
+coverage.xml
+*.hypothesis/
+
+# IDE and editor folders
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# FastAPI specific files
+*.sqlite3
+*.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pipenv
+Pipfile.lock
+
+# Poetry
+poetry.lock
+
+# VS Code settings folder
+.vscode/
