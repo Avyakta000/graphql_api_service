@@ -3,6 +3,8 @@
 *.pyo
 *.pyd
 __pycache__
+app/__pycache__
+app/graphql/__pycache__
 *.py[cod]
 
 # Virtual environment directories
